@@ -1,0 +1,20 @@
+.eka {
+  background-color: red;
+  position: absolute;
+  height: 100px;
+  width: 200px;
+}
+.toka{
+  background-color: yellow;
+  position: absolute;
+  left: 250px;
+  height: 100px;
+  width: 200px;
+}
+.kolmas {
+  background-color: green;
+  position: absolute;
+  left: 500px;
+  height: 100px;
+  width: 200px;
+}
