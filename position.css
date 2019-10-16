@@ -1,20 +1,31 @@
+div{
+  text-align: center;
+  color: rgb(10,10,255);
+  border-style: solid;
+  border-width: 10px;
+  text-transform: uppercase;
+  font-family: arial;
+}
 .eka {
   background-color: red;
   position: absolute;
-  height: 100px;
+  height: 150px;
   width: 200px;
+  border-color: green;
 }
 .toka{
   background-color: yellow;
   position: absolute;
   left: 250px;
-  height: 100px;
+  height: 150px;
   width: 200px;
+  border-color: red;
 }
 .kolmas {
   background-color: green;
   position: absolute;
   left: 500px;
-  height: 100px;
+  height: 150px;
   width: 200px;
+  border-color: yellow;
 }
