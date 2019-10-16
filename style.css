@@ -1,11 +1,53 @@
+.s{
+  background-color:rgb(255,0,155);
+  padding:20,400;
+}
+#s2{
+  left: 100px;
+  position: absolute;
+}
+#s3{
+  left: 420px;
+  position: absolute;
+}
+#pic{
+  position: absolute;
+  right: 0px;
+  top: 112px;
+}
+#frame{
+  margin:0, 40;
+  background-color: rgb(210,180,190);
+  position: absolute;
+  right: 26vmax;
+  padding:0 130px;
+  padding-left: 200px;
+  border-width: 20px;
+  border-color: rgb(0,0,0);
+  border-style: solid;
+}
+body{
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  margin: 0 auto;
+  background-color: rgb(0,0,0);
+  text-align: center;
+  line-height: 20px;
+}
 .red {
   color:rgb(245,10,95);
   }
 
 h1 {
-  color:rgb(20,10,245); 
+  color:rgb(200,10,245); 
+  font-size: 30px;
 }
 
 #list {
-  color:rgb(255,190,200);
+  color:rgb(200,80,100);
+  text-align: left;
+  font-size: 17px;
+  top: 96px;
+  padding-bottom: 555px;
+  position: absolute;
+  background-color: rgb(250,220,230);
 }
